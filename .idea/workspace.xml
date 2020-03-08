@@ -61,9 +61,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="391" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1579162048501">
+    <state x="391" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1579250141560">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="391" y="212" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1579250141560" />
     <state x="391" y="212" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1579162048501" />
+    <state x="65" y="11" key="new project wizard" timestamp="1579250282099">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="11" key="new project wizard/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1579250282099" />
   </component>
 </project>
